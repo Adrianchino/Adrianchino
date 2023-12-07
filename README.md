@@ -6,7 +6,7 @@
   <img
         align="right"
         width="300"
-        height="200"
+        height="300"
         alt="Shimarin"
         src="./Assets/Desarrollador.gif"
       />
@@ -34,7 +34,7 @@
 
   <ul>
     <li>💻 I'm a Frontend Developer and web.</li>
-    <li>🚀 I graduated in software engineering with AI.</li>
+    <li>🚀 I graduated in software engineering with IA.</li>
     <li>👨‍👩‍👧‍👧 I like working in a team.</li>
     <li>🔈🎸 I like cumbia, reggaeton, salsa and bachata .</li>
     <li>☕ I love cappuccino coffee.</li>

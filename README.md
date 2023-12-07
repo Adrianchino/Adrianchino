@@ -5,7 +5,7 @@
 
   <img
         align="right"
-        width="300"
+        width="350"
         height="300"
         alt="Shimarin"
         src="./Assets/Desarrollador.gif"
@@ -28,7 +28,7 @@
   </ul>
 
   <h2>
-    <picture><img src="./Assets/about_me.gif" width="25px" /></picture>
+    <picture><img src="./Assets/about_me.gif" width="30px" /></picture>
     / About me /
   </h2>
 
@@ -41,7 +41,7 @@
   </ul>
 
   <h2>
-    <picture><img src="./Assets/skills.gif" width="25px" /></picture>
+    <picture><img src="./Assets/skills.gif" width="30px" /></picture>
     / Current skills /
   </h2>
 

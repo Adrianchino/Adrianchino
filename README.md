@@ -5,7 +5,7 @@
 
   <img
         align="right"
-        width="300"
+        width="260"
         alt="Shimarin"
         src="./Assets/Desarrollador.gif"
       />
@@ -45,14 +45,13 @@
   </h2>
 
   <div>
-    <img src="./html.gif" width="50px" />
-    <img src="./css.gif" width="50px" />
-    <img src="./js.gif" width="50px" />
-    <img src="./react.gif" width="50px" />
+    <img src="./Assets/html.gif" width="50px" />
+    <img src="./Assets/js.gif" width="50px" />
+    <img src="./Assets/react.gif" width="50px" />
   </div>
 
   <h2>
-    <picture><img src="./hollor_knight3.gif" width="25px" /></picture>
+    <picture><img src="./Assets/hollor_knight3.gif" width="25px" /></picture>
     / How to reach me / :
   </h2>
 

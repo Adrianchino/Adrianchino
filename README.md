@@ -52,7 +52,7 @@
   </div>
 
   <h2>
-    <picture><img src="./Assets/hollor_knight3.gif" width="25px" /></picture>
+    <picture><img src="./Assets/hollor_knight3.gif" width="30px" /></picture>
     / How to reach me / :
   </h2>
 

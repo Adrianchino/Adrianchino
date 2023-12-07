@@ -5,7 +5,7 @@
 
   <img
         align="right"
-        width="400"
+        width="300"
         alt="Shimarin"
         src="./Assets/Desarrollador.gif"
       />
@@ -27,7 +27,7 @@
   </ul>
 
   <h2>
-    <picture><img src="./about_me.gif" width="25px" /></picture>
+    <picture><img src="./Assets/about_me.gif" width="25px" /></picture>
     / About me /
   </h2>
 
@@ -40,7 +40,7 @@
   </ul>
 
   <h2>
-    <picture><img src="./skills.gif" width="25px" /></picture>
+    <picture><img src="./Assets/skills.gif" width="25px" /></picture>
     / Current skills /
   </h2>
 
@@ -65,7 +65,7 @@
       >
         <picture>
           <source
-            media="(prefers-color-scheme: dark)"
+            media="(prefers-color-scheme: light)"
             srcset="
               https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
             "
@@ -89,7 +89,7 @@
         rel="noreferrer"
       >
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+          <source media="(prefers-color-scheme: light)" srcset="undefined" />
           <source
             media="(prefers-color-scheme: light)"
             srcset="
@@ -110,7 +110,7 @@
       >
         <picture>
           <source
-            media="(prefers-color-scheme: dark)"
+            media="(prefers-color-scheme: light)"
             srcset="
               https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg
             "

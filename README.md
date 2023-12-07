@@ -5,7 +5,8 @@
 
   <img
         align="right"
-        width="260"
+        width="300"
+        height="200"
         alt="Shimarin"
         src="./Assets/Desarrollador.gif"
       />
@@ -15,7 +16,7 @@
   <p> I was studying Software Engineering with Artificial Intelligence, which was a technical degree. Once I finished it, I decided to study everything that is fronted on the web. I have been practicing for 1 and a half years.</p>
 
   <ul>
-    <li>🌍I'm based in Piura-Talara</li>
+    <li>🌍 I'm based in Piura-Talara</li>
     <li>
       ✉️ You can contact me at
       <a href="mailto:adrianrugel34@gmail.com">adrianrugel34@gmail.com</a>
@@ -33,10 +34,10 @@
 
   <ul>
     <li>💻 I'm a Frontend Developer and web.</li>
-    <li>🚀 I'm an Industrial Manager.</li>
+    <li>🚀 I graduated in software engineering with AI.</li>
     <li>👨‍👩‍👧‍👧 I like working in a team.</li>
-    <li>🤘🏽🎸 I like classic rock.</li>
-    <li>☕ I love coffee.</li>
+    <li>🔈🎸 I like cumbia, reggaeton, salsa and bachata .</li>
+    <li>☕ I love cappuccino coffee.</li>
   </ul>
 
   <h2>

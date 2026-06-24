@@ -13,7 +13,7 @@
 
   <h2>Fronted Developer</h2>
 
-  <p> I was studying Software Engineering with Artificial Intelligence, which was a technical degree. Once I finished it, I decided to study everything that is fronted on the web. I have been practicing for 1 and a half years.</p>
+  <p> I studied Software Engineering with Artificial Intelligence, which was a technical degree. Once I finished it, I decided to study everything related to frontend on the web. I have been practicing for three years.</p>
 
   <ul>
     <li>🌍 I'm based in Piura-Talara</li>
